@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @adiame7
 - 👀 I’m interested in Technology and videogames!
-- 🌱 I’m currently learning react.js 
+- 🌱 I’m currently learning React.js 
 - 📫 How to reach me mpmoretti7@hotmail.com
